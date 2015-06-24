@@ -511,9 +511,15 @@ img{max-width:100%;}
 	padding:1.5%; 
 }
 .span_1_of_3 {
+	width: 29.2%;
+	padding:1.5%;
+}
+
+.span_1_of_2 {
 	width: 42%;
 	padding:1.5%; 
 }
+
 .span_2_of_3  h3,
 .span_1_of_3  h3 {
 	font-family: 'ambleregular';
